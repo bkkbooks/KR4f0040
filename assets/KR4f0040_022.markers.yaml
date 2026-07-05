@@ -11,13 +11,10 @@ markers:
 
       ', id: KR4f0040_krp_022-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0040_WYG_022-1a02}
-  - {type: substitution, offset: 16, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
-  - {type: substitution, offset: 25, original: 晩, replacement: 晚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3843}}
   - {type: 'kr:newline', offset: 27, content: '
 
       ', id: KR4f0040_krp_022-bkkkrnewl3}
   - {type: line-break, offset: 27, content: '', id: KR4f0040_WYG_022-1a03}
-  - {type: substitution, offset: 29, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: 'kr:newline', offset: 48, content: '
 
       ', id: KR4f0040_krp_022-bkkkrnewl4}
@@ -34,7 +31,6 @@ markers:
 
       ', id: KR4f0040_krp_022-bkkkrnewl7}
   - {type: line-break, offset: 111, content: '', id: KR4f0040_WYG_022-1a07}
-  - {type: substitution, offset: 129, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: 'kr:newline', offset: 132, content: '
 
       ', id: KR4f0040_krp_022-bkkkrnewl8}
@@ -77,4 +73,4 @@ markers:
 
       ', id: KR4f0040_krp_022-bkkkrnewl16}
   back: []
-hash: sha256:021755064eddf3cfcefc8e36732cb6d39f77bda3c9462e4b043b4f1dc482df9f
+hash: sha256:3edea2b2615226d0ff8ab50a59a44bbb4840bcb16bb1cff0cc11de20079841c1
